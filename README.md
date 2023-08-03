@@ -29,25 +29,25 @@ We're excited to have you on board and hope these scripts prove to be invaluable
 
 _Here's a quick overview of each Bash script in this repository:_
 
-1. `script1.sh`: A script to automate the setup of a new programming project with predefined folder structures and configuration files.
+1. `script1.sh`: will be available soon
 
-2. `script2.sh`: An interactive script to quickly search for and install packages from various package managers based on user input.
+2. `script2.sh`: will be available soon
 
-3. `script3.sh`: This script monitors system resources and sends an email notification if CPU or memory usage exceeds a predefined threshold.
+3. `script3.sh`: will be available soon
 
-4. `script4.sh`: A script to batch rename files in a directory based on a specific pattern or regular expression.
+4. `script4.sh`: will be available soon
 
-5. `script5.sh`: Automates the process of compressing and encrypting files into a password-protected ZIP archive.
+5. `script5.sh`: will be available soon
 
-6. `script6.sh`: Quickly converts text files from one encoding to another to ensure compatibility across different platforms.
+6. `script6.sh`: will be available soon
 
-7. `script7.sh`: A script to automate the generation of project documentation using Doxygen.
+7. `script7.sh`: will be available soon
 
-8. `script8.sh`: Checks for broken links in a website by crawling the site and reporting any URLs that return errors.
+8. `script8.sh`: will be available soon
 
-9. `script9.sh`: A script to parse log files and extract useful information, such as error counts and access statistics.
+9. `script9.sh`: will be available soon
 
-10. `script10.sh`: This script automates the backup of specified directories to an external storage device.
+10. `script10.sh`: will be available soon
 
 Feel free to explore each script's functionality and adapt them to suit your specific needs.
 
