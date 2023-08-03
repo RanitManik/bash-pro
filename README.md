@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-<br />
 <div align="center">
 <h1> bash-pro:
    <br> Essential Bash Scripts for Programmers and Power Users</h1>
