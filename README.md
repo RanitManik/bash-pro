@@ -1,9 +1,11 @@
 <a name="readme-top"></a>
 <div align="center">
-<h1> bash-pro:
-   <br> Essential Bash Scripts for Programmers and Power Users</h1>
+
+   # bash-pro   
+   
+   ### Essential Bash Scripts for Programmers and Power Users
+   
 </div>
-<br>
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/bash-pro)
 
