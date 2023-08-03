@@ -4,7 +4,8 @@
    # bash-pro   
    
    ### Essential Bash Scripts for Programmers and Power Users
-   
+
+   <br>
 </div>
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/RanitManik/bash-pro)
