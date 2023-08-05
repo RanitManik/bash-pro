@@ -32,25 +32,9 @@ We're excited to have you on board and hope these scripts prove to be invaluable
 
 _Here's a quick overview of each Bash script in this repository:_
 
-1. `script1.sh`: This bash script simplifies the process of adding, committing, and pushing changes to a remote Git repository, streamlining the workflow for users and ensuring proper version control.
+1. `script1`: This bash script simplifies the process of adding, committing, and pushing changes to a remote Git repository, streamlining the workflow for users and ensuring proper version control.
 
-2. `script2.sh`: will be available soon
 
-3. `script3.sh`: will be available soon
-
-4. `script4.sh`: will be available soon
-
-5. `script5.sh`: will be available soon
-
-6. `script6.sh`: will be available soon
-
-7. `script7.sh`: will be available soon
-
-8. `script8.sh`: will be available soon
-
-9. `script9.sh`: will be available soon
-
-10. `script10.sh`: will be available soon
 
 Feel free to explore each script's functionality and adapt them to suit your specific needs.
 
