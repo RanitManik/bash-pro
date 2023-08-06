@@ -1,10 +1,10 @@
-## Bash Script for Git Commit and Push
+## Bash Script for Git Add Commit and Push
 
 This bash script simplifies the process of committing and pushing changes to a remote Git repository. It is designed to streamline your workflow and ensure that you don't miss any critical steps during version control. Before using the script, ensure that you have Git installed and configured on your system.
 
 ### Usage:
-1. Save this script in a file named `git_commit_push.sh`.
-2. Make the script executable by running `chmod +x git_commit_push.sh`.
+1. Save this script in a file named `git-acp.sh`.
+2. Make the script executable by running `chmod +x git-acp.sh`.
 3. Execute the script with a commit message as an argument:
 
 
