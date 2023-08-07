@@ -35,6 +35,9 @@ _Here's a quick overview of each Bash script in this repository:_
 1. `script1`: This bash script simplifies the process of adding, committing, and pushing changes to a remote Git repository, streamlining the workflow for users and ensuring proper version control.
 
 
+1. `script2`: This bash script automates the process of fetching and pulling changes from a remote Git repository whenever you open Git Bash. It helps you keep your local repository up-to-date effortlessly.
+
+
 
 Feel free to explore each script's functionality and adapt them to suit your specific needs.
 
